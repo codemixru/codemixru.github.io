@@ -1,0 +1,33 @@
+{
+  "name": "Escritor",
+  "version": "1.0.0",
+  "description": "Escritor template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemixru/codemixru.github.io.git"
+  },
+  "keywords": [
+    "escritor"
+  ],
+  "author": "Shavkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codemixru/codemixru.github.io/issues"
+  },
+  "homepage": "https://github.com/codemixru/codemixru.github.io#readme",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^2.2.0",
+    "imagemin-pngquant": "^4.2.2",
+    "wiredep": "^4.0.0"
+  },
+  "dependencies": {}
+}
