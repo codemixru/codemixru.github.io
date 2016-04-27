@@ -1,4 +1,5 @@
-## Escritor – Blog Template | [author](https://www.behance.net/gallery/32967829/Escritor-Free-PSD-Blog-Template)
+## Demo Page | [codemixru.github.io](http://codemixru.github.io/)
+## Desing Template | [author](https://www.behance.net/gallery/32967829/Escritor-Free-PSD-Blog-Template)
 
 ### Fonts used - Google fonts
 * [Montserrat](https://www.google.com/fonts/specimen/Montserrat)
